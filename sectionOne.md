@@ -31,9 +31,11 @@
 # 正版团购
 - [ 谋点利福利店 ](http://mou.li/)app团购
 
-# Windows
-[ MSDN我告诉你 ](http://msdn.itechzero.com/) Windows 原版系统镜像
-[开源镜像站](http://www.itechzero.com/chinas-open-source-mirror-sites-collect.html)
+# for Windows
+- [ MSDN我告诉你 ](http://msdn.itechzero.com/) Windows 原版系统镜像
+
+# Other
+- [开源镜像站](http://www.itechzero.com/chinas-open-source-mirror-sites-collect.html)
 
 # 浏览器插件
 - [ TransIt ](https://chrome.google.com/webstore/detail/transit/pfjipfdmbpbkcadkdpmacdcefoohagdc) (划词翻译) 
