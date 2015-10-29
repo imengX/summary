@@ -74,9 +74,9 @@
 4. [ 前后端分离了了,然后呢？](http://icodeit.org/2015/06/whats-next-after-separate-frontend-and-backend/)
 
 # iOS
-[ iOS移动开发周报 ](http://www.infoq.com/cn/mobile-weekly) infoq 特供稿件 必看
-[http://weekly.ios-wiki.com/](http://weekly.ios-wiki.com/) iOS技术周报
-[http://www.raywenderlich.com/](http://www.raywenderlich.com/) 教程
+- [ iOS移动开发周报 ](http://www.infoq.com/cn/mobile-weekly) infoq 特供稿件 必看
+- [http://weekly.ios-wiki.com/](http://weekly.ios-wiki.com/) iOS技术周报
+- [http://www.raywenderlich.com/](http://www.raywenderlich.com/) 教程
 
 开源库
 
