@@ -77,14 +77,16 @@
 [ iOS移动开发周报 ](http://www.infoq.com/cn/mobile-weekly) infoq 特供稿件 必看
 [http://weekly.ios-wiki.com/](http://weekly.ios-wiki.com/) iOS技术周报
 [http://www.raywenderlich.com/](http://www.raywenderlich.com/) 教程
+
 开源库
+
 1. [ TimLiu-iOS ](https://github.com/Tim9Liu9/TimLiu-iOS) 较新
 1. [ Github-iOS备忘 ](http://github.ibireme.com/github/list/ios/) 由 [ibireme](http://blog.ibireme.com/)维护 博客同样精彩
 2. [ 豆瓣iOS开源库列表 ](http://www.douban.com/note/276160185/) 大量项目 较老但值得学习
 3. [ Awesome-iOS ](https://github.com/vsouza/awesome-ios)
 3. [ iOS Top 1000 ](https://github.com/iamdaiyuan/ios_top_1000) 内附gif
 4. [ cocoaControls ](https://www.cocoacontrols.com/)code4app 模仿对象
-5. [ code4app ](http://code4app.com/) 不可否认这是最简单粗暴的有效方式[http://code4app.com/resource](http://code4app.com/resource)
+5. [ code4app ](http://code4app.com/)不可否认这是最简单粗暴的有效方式[http://code4app.com/resource](http://code4app.com/resource)
 
 [ appleSystemStatus ](http://www.apple.com/support/systemstatus/)苹果服务状态
 
