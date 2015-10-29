@@ -22,7 +22,7 @@
 - [ 如何优雅的高效使用MAC OSX系统 ](http://www.ixirong.com/2015/06/08/how-to-use-mac-efficiently/)
 
 # 盗版软件
-> 支持正版：软件开发者和作家一样，有的只是代码和文字。 在条件允许的情况下，请支持正版，有了良好的生态环境，App 开发者们会做出更多好玩的东西。
+> 支持正版：软件开发者和作家一样，有的只是代码和文字。 在条件允许的情况下，请支持正版，有了良好的生态环境，App 开发者们会做出更多好玩的东西。  -[来源](https://github.com/hzlzh/Best-App/blob/master/Best-App-Mac-Free.md)
 
 - [ macAppSo ](http://www.macapp.so/) go
 - [ 爱情守望者 ](http://www.waitsun.com/)
