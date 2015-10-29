@@ -34,7 +34,7 @@
 # for Windows
 - [ MSDN我告诉你 ](http://msdn.itechzero.com/) Windows 原版系统镜像
 
-# Other
+## Other
 - [开源镜像站](http://www.itechzero.com/chinas-open-source-mirror-sites-collect.html)
 
 # 浏览器插件
