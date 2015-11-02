@@ -1,10 +1,6 @@
 # 伟大的墙
 - [ Google镜像站搜集](http://www.itechzero.com/google-mirror-sites-collect.html)
 - [ GFW翻墙小结 ](http://wsgzao.github.io/post/fq/)
-- [ iShadowSocks ](http://www.ishadowsocks.com/) (SHADOWSOCKS 教程及免费帐号)
-- [ 77网络加速器 一小时免费 VPN ](http://www.77jiasu.com/?from=techzero)
-- [ 佛跳墙 ](http://www.godusevpn.net/) 性价比最高的方案
-- [ SS-Link ](https://www.ss-link.com/) 收费和免费
 
 # 读书
 - [ GitBook ](https://www.gitbook.com/explore) 免费且优秀的书
@@ -25,8 +21,6 @@
 > 支持正版：软件开发者和作家一样，有的只是代码和文字。 在条件允许的情况下，请支持正版，有了良好的生态环境，App 开发者们会做出更多好玩的东西。  -[来源](https://github.com/hzlzh/Best-App/blob/master/Best-App-Mac-Free.md)
 
 - [ macAppSo ](http://www.macapp.so/) go
-- [ 爱情守望者 ](http://www.waitsun.com/)
-- [ MacX](http://soft.macx.cn/)
 
 # 正版团购
 - [ 谋点利福利店 ](http://mou.li/)app团购
