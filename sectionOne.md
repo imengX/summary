@@ -50,6 +50,9 @@
 
 # 服务
 - [ LeanCloud ](https://leancloud.cn/) (原AVOS)
+- [ 野狗 ](https://www.wilddog.com)
+- [ firebase ](https://www.firebase.com)
+
 - [ 阿里百川 ](http://im.baichuan.taobao.com/) IM
 - [ 环信 ](http://www.easemob.com/)
 - [ Parse](https://parse.com/) 速度慢 已全部开源
