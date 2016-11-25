@@ -25,6 +25,7 @@
 
 # 正版团购
 - [ 谋点利福利店 ](http://mou.li/)app团购
+- [ 数码荔枝 ](https://digitalychee.taobao.com/)
 
 # for Windows
 - [ MSDN我告诉你 ](http://msdn.itechzero.com/) Windows 原版系统镜像
